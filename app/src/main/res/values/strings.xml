@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Sensor</string>
+    <string name="label_accelerometer">Accelerometer: %1$.2f m\\s2  X-Axis \n %2$.2f m\\s2  Y-Axis \n   %3$.2f m\\s2  Z-Axis \n Max %4$.2f m\\s2    Min %5$.2f m\\s2 \n  </string>
+    <string name="label_gravity">Gravity: %1$.2f m\\s2 \n Max %2$.2f m\\s2    Min %3$.2f m\\s2 \n</string>
+    <string name="label_gyroscope">Gyroscope: %1$.2f rad/s   %2$.2f rad/s   %3$.2f rad/s   \n Max %4$.2f rad/s     Min %5$.2f rad/s  \n</string>
+    <string name="label_linearAcceleration">Linear Acceleration: %1$.2f m\\s2 \n Max %2$.2f m\\s2    Min %3$.2f m\\s2 \n</string>
+    <string name="label_rotationVector">Rotation Vector: %1$.2f xRot  %2$.2f yRot    %3$.2f zRot  \n Max %4$.2f xRot    Min %5$.2f xRot \n</string>
+    <!-- error message if sensors are not available. -->
+    <string name="error_no_sensor">No sensor</string>
+
+</resources>
